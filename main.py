@@ -5,10 +5,6 @@ from PyQt5.QtWidgets import (QApplication, QWidget, QPushButton, QMessageBox, QL
 import json
 import os
 
-#sihirli bir şekilde json olmadan çalışıyo anlamadım
-
-
-
 app = QApplication([])
 window = QWidget()
 window.setWindowTitle("Library")
